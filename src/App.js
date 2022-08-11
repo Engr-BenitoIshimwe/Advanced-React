@@ -2,7 +2,7 @@ import React from 'react';
 function App() {
   return (
     <div className='container'>
-      <h2>Scandiweb Developer Ishimwe Benito</h2>
+      <h2>Benito Developer Employed as a Developer</h2>
     </div>
   );
 }
